@@ -1,7 +1,7 @@
-#Project Overview
+# Project Overview
 The Hotel Management System is a software application designed to streamline and automate daily hotel operations. This system simplifies essential tasks, such as maintaining records of customers, rooms, employees, and drivers, while improving the overall efficiency of hotel management.
 
-#Key Features
+# Key Features
 1 Customer Management: Record and manage customer details, including check-in and check-out information.
 2 Room Management: Categorize rooms by type (e.g., single bed, double bed) and maintain corresponding charges and availability records.
 3 Employee Listings: Maintain employee information for better workforce management.
